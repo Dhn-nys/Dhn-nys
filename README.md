@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://github.com/dhn-nys/dhn-nys/tree/assets">
+    <a href="https://github.com/Dhn-nys?tab=repositories">
         <img align="left" width="50%" src="https://imgur.com/download/WsJubMv/">
     </a>
 </p>
