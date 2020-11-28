@@ -7,6 +7,7 @@
     <p>I have a little bit of knowledge but I like to share it because when I die I want someone to say "he's a really nice person"</p>
     <details>
     </br>
+    </br>
         <summary></summary>
         <p align="center">
             <a href="#" target="_blank">
