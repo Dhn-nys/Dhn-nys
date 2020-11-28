@@ -1,19 +1,13 @@
 <p align="center">
     <a href="https://github.com/dhn-nys/dhn-nys/tree/assets">
-        <img width="100%" src="https://imgur.com/download/B9OYwBu/">
+        <img align="left" width="50%" src="https://imgur.com/download/WsJubMv/">
     </a>
 </p>
-<details>
     <summary>
     </summary>
-    <p align="center">Use Operating System
-    <ul>
-        <li>Arch Linux</li>
-        <li>Debian</li>
-        <li>Windows 10</li>
-    </ul> 
-    </p>
-    <details>
+    <p align="center">Words of wisdom</p>
+    <p>I have a little bit of knowledge but I like to share it because when I die I want someone to say "he's a really nice person"</p>
+    <details align="center">
         <summary></summary>
         <p align="center">
             <a href="#" target="_blank">
@@ -31,6 +25,5 @@
                     <img alt="GitHub Updates" src="https://img.shields.io/github/last-commit/dhn-nys/dhn-nys?style=flat-square&label=Updated&labelColor=3b4252&color=2e3440"/>
                 </a>
             </p>
-        </details>
     </details>
 </details>
