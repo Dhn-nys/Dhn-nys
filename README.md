@@ -7,7 +7,7 @@
     </summary>
     <p align="center">Words of wisdom</p>
     <p>I have a little bit of knowledge but I like to share it because when I die I want someone to say "he's a really nice person"</p>
-    <details align="center">
+    <details>
         <summary></summary>
         <p align="center">
             <a href="#" target="_blank">
