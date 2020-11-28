@@ -9,7 +9,7 @@
     <p>I have a little bit of knowledge but I like to share it because when I die I want someone to say "he's a really nice person"</p>
     <details>
         <summary></summary>
-        <p align="left">
+        <p>
             <a href="#" target="_blank">
                 <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhn-nys&hide=html,&hide_border=true&title_color=2e3440&text_color=3b4252"/>
                 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dhn-nys&show_icons=true&hide_border=true&icon_color=2e3440&title_color=434c5e&text_color=3b4252"/>
