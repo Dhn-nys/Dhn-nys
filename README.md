@@ -3,8 +3,9 @@
         <img align="left" width="50%" src="https://imgur.com/download/WsJubMv/">
     </a>
 </p>
-    <p align="center">Words of wisdom</p>
-    <p>I have a little bit of knowledge but I like to share it because when I die I want someone to say "he's a really nice person"</p>
+    <p align="center">私の言葉</p>
+    <p>私は少し知識がありますが、私が死んだときに誰かに「彼は本当にいい人だ」と言わせたいので、それを共有したいと思います || 去年から頑張れたらいいのに</p>
+    <p>I have a little bit of knowledge but I like to share it because when I die I want someone to say "he's a really nice person" || I wish I could do my best from last year</p>
     <details>
     </br>
     </br>
