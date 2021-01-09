@@ -12,7 +12,7 @@
         <p align="center">
             <a href="#" target="_blank">
                 <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhn-nys&hide=html,&hide_border=true&title_color=2e3440&text_color=3b4252"/>
-                <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dhn-nys&show_icons=true&hide_border=true&icon_color=2e3440&title_color=434c5e&text_color=3b4252"/>
+                <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dhn-nys&show_icons=true&hide_border=true&icon_color=2e3440&title_color=2e3440&text_color=5e81ac"/>
             </a>
         </p>
         <details>
