@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/Dhn-nys?tab=repositories">
-        <img align="left" width="50%" src="https://imgur.com/download/WsJubMv/">
+        <img align="left" width="50%" src="https://imgur.com/download/U2OHoGY/arch+terminal">
     </a>
 </p>
     <p align="center">私の言葉</p>
