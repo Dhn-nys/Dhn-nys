@@ -3,8 +3,8 @@
         <img align="left" width="50%" src="https://imgur.com/download/U2OHoGY/arch+terminal">
     </a>
 </p>
-    <p align="center">私の言葉</p>
-    <p>私は少し知識がありますが、私が死んだときに誰かに「彼は本当にいい人だ」と言わせたいので、それを共有したいと思います || 去年から頑張れたらいいのに</p>
+    <p align="center">/> Word</p>
+    <p>𝙸 𝚊𝚖 𝚑𝚊𝚟𝚎 𝚕𝚒𝚝𝚝𝚕𝚎 𝚔𝚗𝚘𝚠𝚕𝚎𝚍𝚐𝚎, 𝚋𝚞𝚝 𝚒 𝚊𝚖 𝚖𝚞𝚜𝚝 𝚜𝚝𝚞𝚍𝚢 𝚊𝚗𝚍 𝚜𝚝𝚞𝚍𝚢 █</p>
     <details>
     </br>
     </br>
