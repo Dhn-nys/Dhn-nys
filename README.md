@@ -11,8 +11,8 @@
         <summary></summary>
         <p align="center">
             <a href="#" target="_blank">
-                <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhn-nys&hide=html,&hide_border=true&title_color=2e3440&text_color=3b4252"/>
-                <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dhn-nys&show_icons=true&hide_border=true&icon_color=2e3440&title_color=2e3440&text_color=5e81ac"/>
+                <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhn-nys&langs_count=8&hide=html&hide_border=true&title_color=2e3440&text_color=5e81ac&bg_color=eceff4"/>
+                <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dhn-nys&show_icons=true&hide_border=true&icon_color=2e3440&title_color=2e3440&text_color=5e81ac&bg_color=eceff4"/>
             </a>
         </p>
 </details>
