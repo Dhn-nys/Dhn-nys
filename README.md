@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/Dhn-nys?tab=repositories">
-        <img align="left" width="50%" src="https://imgur.com/download/U2OHoGY/arch+terminal">
+        <img align="left" width="50%" src="https://github.com/Dhn-nys/Dhn-nys/blob/main/Images/Atago.png">
     </a>
 </p>
     <p align="center">/> Word</p>
